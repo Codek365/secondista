@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Dec 2016 10:02:38 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Everything you need to know about Google&#8217;s possum algorithm</title>
+		<link>https://www.prestashop.com/blog/en/everything-need-know-googles-possum-algorithm/</link>
+		<comments>https://www.prestashop.com/blog/en/everything-need-know-googles-possum-algorithm/#comments</comments>
+		<pubDate>Fri, 16 Dec 2016 07:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Eva Lacalle]]></dc:creator>
+				<category><![CDATA[Ecommerce Trends]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22503</guid>
+		<description><![CDATA[<p>It&#8217;s no secret that local results on Google have experienced a spike recently, and the most recent changes to the company&#8217;s search algorithm have continued this trend. Although not yet confirmed by Google, local search results have been pursuing a steady climb since September and SEO experts are now abuzz about the company&#8217;s new algorithm, [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/everything-need-know-googles-possum-algorithm/">Everything you need to know about Google&#8217;s possum algorithm</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s no secret that <strong>local results on Google have experienced a spike recently</strong>, and the most recent changes to the company&#8217;s search algorithm have continued this trend. Although <strong>not yet confirmed by Google</strong>, local search results have been pursuing a steady climb since September and <strong>SEO experts are now abuzz about the company&#8217;s new algorithm</strong>, which they say has accounted for a high number of possums. In this article, we explain everything you need to know to benefit from the new advantages of Google&#8217;s most recent changes.<span id="more-22503"></span></p>
+<h2 style="color:#5279b7">Why are they called possums?</h2>
+<p>First of all, we&#8217;d like to specify that Google has not confirmed any changes to its local results algorithm. As such, <strong>the unofficial name</strong> is merely <strong>a term chosen by SEO experts</strong>. To be more specific, the local result visibility expert <a href="https://twitter.com/philrozek" target="_blank">Phil Rozek</a> suggested it when certain companies told him that their web pages had disappeared from Google My Business. In reality, they hadn&#8217;t disappeared, but were “playing dead” or — in his words — &#8220;playing possum.&#8221;</p>
+<p><strong>Google was actually filtering a whole lot of results from Google My Business</strong>, which made business owners think that the tech company had purposefully scratched them off the list. And so was born a new and improved local SEO option for quality and content links.</p>
+<h2 style="color:#5279b7">What effects will these changes have?</h2>
+<p>From the looks of it, <strong>the changes directly affect local results and those on Google Maps</strong>, modifying sites listed in 3-packs of local results (formerly 7-packs) and those displayed when clicking on &#8220;more sites.&#8221; As always, these changes are visible on everything in the Google USA SERP, although it can be expected that the changes will be gradually applied in all supported countries. It is also likely that you&#8217;ll soon see a difference for customized pages affected by the changes. In other words, you will be able to anticipate changes to local SEO.</p>
+<p>All in all, given what has been observed in recent weeks, the algorithm is <strong>penalizing pages that have the same domain name or telephone number on Google My Business. Pages that do not indicate their location are not exempt</strong>, nor are those for which the location doesn&#8217;t correspond with business user searches on Google.</p>
+<h2 style="color:#5279b7">Who has benefited from this?</h2>
+<p>Although local searches put some pages at a disadvantage, others have seen major benefits from the algorithm changes, with overnight spikes in 3-pack rankings on Google in some cases. Now for some of the changes at SEO level.</p>
+<h4 style="color:#5279b7">Improvements for businesses located in city limits</h4>
+<p>When Google local SEO was redone, businesses located on the edge of city limits began having problems improving their ranking, given the number of competitors inside the city. According to Google, however, some of these businesses are located outside of the locality they feel they belong to.<br />
+Nevertheless, since the algorithm change, some pages (with an accurate SEO positioning) have seen their rankings go up automatically. Google has begun taking this into account for its local results as well.</p>
+<h4 style="color:#5279b7">Filtering by address to improve user experience</h4>
+<p>In the past, Google has used domain and telephone number to filter duplicates in local results. Following the changes made to its algorithm, Google will also <strong>evaluate and filter multiple accounts with the same physical address so that only one of the pages is displayed</strong>. For example, imagine you&#8217;re a specialized law firm with lawyers practicing different types of law. You would only be allowed one account per firm or per branch of law (marriage, labor, criminal, etc.). Another example could be a private hospital, for which specialists would have their own cabinet. </p>
+<p>If each individual branch is displayed with the same address and on the same page, Google will consider these to be duplicate content, which the SEO would filter. Only the result with the highest placed local search result would be shown. Take the example of searching for a lawyer: what is the point of showing you the same address three or four times? </p>
+<p>Although Google has been doing this for some time, things have changed. Now, each time that businesses are filtered, they are penalized or promoted so that the search engine can determine one&#8217;s pertinence over another in result lists and rank them in the local SEO results.</p>
+<h4 style="color:#5279b7">Physical location of users — an increasingly important concept</h4>
+<p>This is harmful to the SEO ranking of businesses that deal in a broad but local geographic location because the system benefits the most local businesses. Even if results are in a nearby neighboring region, <strong>Google will give priority to the businesses that are closest to a user</strong> at the moment they hit search. Google&#8217;s SERP will be different for &#8220;service+city&#8221; queries, even when the search request is for an exact match (all the same keywords), if the results are found in different cities.</p>
+<p>For example, if you search for &#8220;lawyers+Madrid&#8221;, the results will be different if you are looking only in Madrid or if you are looking in Barcelona, despite the terms used in your query. The reason for this is that Google gives higher importance to the user&#8217;s IP address when deciding where to look.</p>
+<h4 style="color:#5279b7">Slight changes to keywords yield different results</h4>
+<p>Before changes were made to Google&#8217;s algorithm, if you searched for &#8220;lawyers in Madrid,&#8221; &#8220;Madrid lawyers,&#8221; or &#8220;Lawyer Madrid,&#8221; the results would have been either the same, very similar, or would have contained some of the same pages.</p>
+<p>With the new algorithm, <strong>results are more variable, including for pages in 3-packs and searches with similar results included</strong>. This could mean that Google is still making changes to its algorithm in order to tweak and improve it.</p>
+<h4 style="color:#5279b7">Local results, increasingly separate from organic search</h4>
+<p>It seems that even if Google considers a page to be a duplicate and filters it through the SERP, it can still appear in local results. Additionally, <strong>some pages may appear</strong> as duplicates <strong>in both ordinary results and local 3-pack results</strong>, since these seem to be functioning separately. That would imply that some businesses may be benefiting from double visibility.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/everything-need-know-googles-possum-algorithm/">Everything you need to know about Google&#8217;s possum algorithm</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/everything-need-know-googles-possum-algorithm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to optimize product page content to boost sales</title>
+		<link>https://www.prestashop.com/blog/en/optimize-product-page-content-boost-sales/</link>
+		<comments>https://www.prestashop.com/blog/en/optimize-product-page-content-boost-sales/#comments</comments>
+		<pubDate>Thu, 15 Dec 2016 18:52:27 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22487</guid>
+		<description><![CDATA[<p>The product page is the cornerstone of your e-commerce website. Potential customers should be able to easily find and examine products, and get all the necessary details to prompt them to make a purchase. So it&#8217;s essential to analyze performance and optimize product pages when necessary. And that means improving the architecture and design of [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/optimize-product-page-content-boost-sales/">How to optimize product page content to boost sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The product page is the cornerstone of your e-commerce website. Potential customers should be able to easily find and examine products, and get all the necessary details to prompt them to make a purchase.<br />
+So it&#8217;s essential to analyze performance and optimize product pages when necessary.<span id="more-22487"></span><br />
+And that means improving the architecture and design of product pages, as well as content, in order to:</p>
+<ul>
+<li>Boost conversions</li>
+<li>Optimize product pages on Google<br />
+SEO consultants from Blog Ecommerce are here to show you how in today&#8217;s video:</li>
+</ul>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/Hnzs8dq3sWU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=blogecommerce"> Watch more vidéo</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/optimize-product-page-content-boost-sales/">How to optimize product page content to boost sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/optimize-product-page-content-boost-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;Sell Faster&#8221;: Enhancing User Experience on a Daily Basis</title>
+		<link>https://www.prestashop.com/blog/en/sell-faster-enhancing-user-experience-daily-basis/</link>
+		<comments>https://www.prestashop.com/blog/en/sell-faster-enhancing-user-experience-daily-basis/#comments</comments>
+		<pubDate>Tue, 06 Dec 2016 10:37:33 +0000</pubDate>
+		<dc:creator><![CDATA[Sebastien Levaillant]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22468</guid>
+		<description><![CDATA[<p>&#8220;Code Better; Create Easier; Sell Faster&#8221;: PrestaShop 1.7 offers real improvements for everyone involved in creating an online shop: developers, theme designers and merchants. &#8220;Sell Faster&#8221; is designed for our users, merchants. The product department committed to making their lives easier. That is what user-oriented design is all about. When a merchant chooses PrestaShop, it [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/sell-faster-enhancing-user-experience-daily-basis/">&#8220;Sell Faster&#8221;: Enhancing User Experience on a Daily Basis</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Code Better; Create Easier; Sell Faster&#8221;: <a href="https://www.prestashop.com/1.7" target="_blank">PrestaShop 1.7</a> offers real improvements for everyone involved in creating an online shop: developers, theme designers and merchants.<span id="more-22468"></span></p>
+<p><strong>&#8220;Sell Faster&#8221; is designed for our users, merchants.</strong></p>
+<p>The product department committed to making their lives easier. That is what user-oriented design is all about.</p>
+<p>When a merchant chooses PrestaShop, it is for one simple reason: to be able to sell their products or services. </p>
+<p>This may seem obvious, but what it implies is vital: if they are immediately given the full array of options offered by the software, they will feel overwhelmed.</p>
+<p>E-commerce is becoming more and more common and some less experienced merchants are entering the market. We wanted to make the early stages of using our software easier, and support them during the first vital steps towards becoming an e-merchant.</p>
+<p>Therefore, we focused on a few key tasks upon creating an online shop. The goal was to make them more intuitive and user-friendly.</p>
+<p>Hence, the features were not seen as an end in itself, but rather as a &#8220;simple&#8221; means to accomplish these tasks.</p>
+<p>More experienced users, i.e. companies looking for a powerful but simple software program after years in the e-commerce business, also wanted a more user-friendly product to support their development.</p>
+<p>The 1.7.0 version is the result an analysis conducted on tens of thousands of e-shops and numerous interviews, surveys and tests.</p>
+<p>As a result, we redesigned the user interface for:  </p>
+<ul>
+<li>Early Stages of Using PrestaShop: <br />
+We have clearly indicated the 6 key steps to create your online shop. This simplified initial process is not mandatory. It is more of a guide to help you if you need it.</li>
+<li>Creating Products: <br />
+We made creating simple products less time-consuming. Instead of about fifteen minutes, it will now take you less than five. This is obviously essential, as without any products you will not receive any orders. We also made mass product creation easier by enabling the use of new file formats.</li>
+</ul>
+<p>Managing your shop from the back office is quicker and more efficient, and the product upload time has been reduced drastically. These two improvements favor a very short Time to Market, especially during key sales periods or internationalizations!</p>
+<p>We have surveyed our user club and visited numerous merchants to have their feedback on how to improve user experience. If you also want to take part in our product tests, sign up to our <a href="http://www.prestashop.com/club/" target="_blank">club</a>!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/sell-faster-enhancing-user-experience-daily-basis/">&#8220;Sell Faster&#8221;: Enhancing User Experience on a Daily Basis</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/sell-faster-enhancing-user-experience-daily-basis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Christmas Holidays: 2015-2016 E-Commerce Trends and Outlook</title>
+		<link>https://www.prestashop.com/blog/en/christmas-holidays-2015-2016-e-commerce-trends-outlook/</link>
+		<comments>https://www.prestashop.com/blog/en/christmas-holidays-2015-2016-e-commerce-trends-outlook/#comments</comments>
+		<pubDate>Tue, 06 Dec 2016 10:29:16 +0000</pubDate>
+		<dc:creator><![CDATA[Cindy Deguingand]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22475</guid>
+		<description><![CDATA[<p>Many of you in Europe and throughout the world* took part in our survey about preparing your online store for the holiday season. We made a promise and we&#8217;re keeping it! We have assessed the impact on your business and habits during that crucial peak sales time, the Christmas Holiday period. Find out about the [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/christmas-holidays-2015-2016-e-commerce-trends-outlook/">Christmas Holidays: 2015-2016 E-Commerce Trends and Outlook</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Many of you in Europe and throughout the world* took part in our survey about preparing your online store for the holiday season. We made a promise and we&#8217;re keeping it!</p>
+<p>We have assessed the impact on your business and habits during that crucial peak sales time, the Christmas Holiday period.</p>
+<p>Find out about the 2015-2016 e-commerce trends and outlook. <span id="more-22475"></span></p>
+<h2 style="color: #251b5b;font-weight: bold"><a title="Infographic : E-Commerce Trends &amp; Outlook 2016" href="https://www.prestashop.com/blog/en/christmas-holidays-2015-2016-e-commerce-trends-outlook/infographie_en/" target="_blank" rel="attachment wp-att-22520"><img class="alignnone size-full wp-image-22520" alt="infographie_EN" src="https://www.prestashop.com/blog/en/files/2016/12/infographie_EN.jpg" width="700" height="2277" /></a></h2>
+<h2 style="color: #251b5b;font-weight: bold">2015 Report – Christmas Holiday period significant, but less so than last year with sales smoothed out over the year.</h2>
+<p>The Christmas Holiday period is crucial for e-merchants.</p>
+<p>This year, 29% of e-merchants surveyed estimate that the Christmas Holiday period represents between 10 and 25% of their revenue. 15% estimate that it represents more than 25%.</p>
+<p>However, and this is a significant figure, more than half (57%) estimate that it represents less than 10% of their revenue. The Christmas Holiday share of revenue is thus decreasing, and e-merchants are managing to smooth their revenue more successfully over the year. The reason for that is the increase in promotional periods throughout the year: Black Friday, Cyber Monday, sales, Valentine&#8217;s Day, Mother’s Day, Father’s Day, etc. See our <a href="http://addons.prestashop.com/en/11539-uk-ecommerce-calendar.html" target="_blank">e-commerce calendar</a>.</p>
+<h2 style="color: #251b5b;font-weight: bold">Outlook for the 2016 season</h2>
+<p>The good news is that e-merchants are quite optimistic about their prospective sales this year: 72% estimate that their revenue will be higher than last year in Europe.</p>
+<p><strong>Recruitment</strong> – 14% of online stores are planning to hire staff specifically for the holiday period. That is a good sign and can be correlated with the results of e-merchants for whom the holiday period represents more than 10% of their revenue (15% in total).</p>
+<p>For those recruiting for the holiday period, the most sought-after profiles are mainly for <strong>staff to deal with taking orders and returned packages (28%).</strong> These are followed by <strong>e-mail and social media marketers (20%) and web developers (18%). </strong></p>
+<h2 style="color: #251b5b;font-weight: bold">Christmas Holiday preparations</h2>
+<p>76% of European e-merchants state that they prepare their online store for the Christmas Holiday period. 90% of them do so <strong>1 to 3 months in advance</strong>. So e-merchants decide on their main action plan for the Christmas Holidays <strong>in October</strong>.</p>
+<p><strong>What are their 3 main objectives for this period?</strong></p>
+<p><strong>1/ Preparing their online store</strong> – festive design, adding product pages, promotional offers, etc., all of which explain the importance of recruiting web designers and developers.</p>
+<p><strong>2/ Preparing</strong> targeted <strong>promotional e-mail campaigns</strong> to boost the number of orders and the average cart size.</p>
+<p><strong>3/ An optimum inventory level</strong>, neither too big nor too small, but one that strikes a happy medium to avoid being left with unsold stock after the holiday period, and to avoid having inventory shortages that result in the immediate loss of a sale.</p>
+<h2 style="color: #251b5b;font-weight: bold">The mobile share of Christmas Holiday e-commerce revenue</h2>
+<p>For e-merchants in a position to state this (78% of respondents), <strong>the share of revenue made via mobile devices over the holiday period is 17%</strong> on average.</p>
+<p>However, almost 22% of respondents had no idea about the volume of mobile sales in their revenue.</p>
+<p>From that we can conclude that there is still a considerable amount of room for optimizing e-commerce websites for mobile devices. Simple methods for assessing the volume of revenue from mobile devices can be set up via <a href="https://www.google.com/intl/en/analytics/features/mobile-site-traffic.html" target="_blank">Google Analytics</a>. This enables e-merchants to identify the most effective mobile platforms for their e-commerce.</p>
+<h2 style="color: #251b5b;font-weight: bold">The importance of social media in an e-commerce marketing strategy</h2>
+<p>Social media is considered to be important in the e-merchant&#8217;s marketing strategy in Poland: 57% consider it crucial in communications during the Christmas period, and 35% consider it to be quite important.</p>
+<p>* Sample of those surveyed: <strong>1,305</strong> e-merchants active in Europe and <strong>1,898</strong> throughout the world.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/christmas-holidays-2015-2016-e-commerce-trends-outlook/">Christmas Holidays: 2015-2016 E-Commerce Trends and Outlook</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/christmas-holidays-2015-2016-e-commerce-trends-outlook/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>7 useful tips to turn complaints into a great customer experience</title>
+		<link>https://www.prestashop.com/blog/en/7-useful-tips-turn-complaints-great-customer-experience/</link>
+		<comments>https://www.prestashop.com/blog/en/7-useful-tips-turn-complaints-great-customer-experience/#comments</comments>
+		<pubDate>Tue, 06 Dec 2016 06:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22460</guid>
+		<description><![CDATA[<p>Did you know that as many as 66% of unhappy clients say they refuse to go back to a company they’ve had a bad customer experience with? Pretty scary. In today’s video, Jeremy Tree, Business Development Manager at Youstice, lays out 7 ways to avoid ruffling your customers’ feathers when dealing with negative feedback. His [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/7-useful-tips-turn-complaints-great-customer-experience/">7 useful tips to turn complaints into a great customer experience</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Did you know that as many as 66% of unhappy clients say they refuse to go back to a company they’ve had a bad customer experience with? Pretty scary.</p>
+<p>In today’s video, Jeremy Tree, Business Development Manager at Youstice, lays out 7 ways to avoid ruffling your customers’ feathers when dealing with negative feedback.<span id="more-22460"></span></p>
+<p>His clear, straightforward tips will have you turning complaints into conversions in no time.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/Am-P4SIfgc4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=youstice"> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/7-useful-tips-turn-complaints-great-customer-experience/">7 useful tips to turn complaints into a great customer experience</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/7-useful-tips-turn-complaints-great-customer-experience/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Meet Jayasilen, Ambassador of the month &#124; November 2016</title>
+		<link>https://www.prestashop.com/blog/en/meet-jayasilen-ambassador-month-november-2016/</link>
+		<comments>https://www.prestashop.com/blog/en/meet-jayasilen-ambassador-month-november-2016/#comments</comments>
+		<pubDate>Thu, 01 Dec 2016 15:41:24 +0000</pubDate>
+		<dc:creator><![CDATA[floreravaud]]></dc:creator>
+				<category><![CDATA[PrestaShop Ambassadors]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22433</guid>
+		<description><![CDATA[<p>Jayasilen, our Ambassador of Malaysia, is working in Kuala Lumpur for a nutritional supplements company, where he is in charge of the online business, through a store powered by PrestaShop. He is the proof that PrestaShop is easy to use and user-friendly, as him and his assistant don’t have an IT background. To reward his [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/meet-jayasilen-ambassador-month-november-2016/">Meet Jayasilen, Ambassador of the month | November 2016</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Jayasilen, our Ambassador of Malaysia, is working in Kuala Lumpur for a nutritional supplements company, where he is in charge of the online business, through a store powered by PrestaShop. He is the proof that PrestaShop is easy to use and user-friendly, as him and his assistant don’t have an IT background. To reward his loyalty, we chose him to be the Ambassador of November! Check out below his great answers to our questions. <span id="more-22433"></span></p>
+<h2 style="color: #df0067"> About you </h2>
+<p><strong>Three words to best describe you:</strong><br />
+Introvert, equanimous and avant-garde.</br><br />
+<strong>If you were to write a book about yourself, what would you name it?</strong><br />
+<em>My search for meaning.</em></br><br />
+<strong>What is your hidden talent?</strong><br />
+I am passionate about Taekwondo, dancing and film-making.<br />
+<img src="https://www.prestashop.com/blog/en/files/2016/11/taekwondo.jpg" alt="taekwondo" width="960" height="636" class="alignnone size-full wp-image-22435" /><em>Jayasilen practising his favourite sport, Taekwondo</em></br><br />
+<strong>A favorite line from a movie?</strong><br />
+This is a tough one. There’s a lot of quotes from the Rocky series that I find very relatable, inspiring and touching but here is one of my favourites.</p>
+<p><em>“Let me tell you something you already know. The world ain&#8217;t all sunshine and rainbows. It&#8217;s a very mean and nasty place, and I don&#8217;t care how tough you are, it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain&#8217;t about how hard you hit. It&#8217;s about how hard you can get hit and keep moving forward; how much you can take and keep moving forward. That&#8217;s how winning is done! Now, if you know what you&#8217;re worth, then go out and get what you&#8217;re worth. But you gotta be willing to take the hits, and not pointing fingers saying you ain&#8217;t where you wanna be because of him, or her, or anybody. Cowards do that and that ain&#8217;t you. You&#8217;re better than that! I&#8217;m always gonna love you, no matter what. No matter what happens. You&#8217;re my son and you&#8217;re my blood. You&#8217;re the best thing in my life. But until you start believing in yourself, you ain&#8217;t gonna have a life.”</em><br />
+<em>― Sylvester Stallone, Rocky Balboa ―</em></p>
+<p>P.S.: Go watch Rocky if you have not and you will definitely find some meaning in life.<br />
+<img src="https://www.prestashop.com/blog/en/files/2016/11/rocky.jpg" alt="rocky" width="460" height="289" class="alignnone size-full wp-image-22436" /></br><br />
+<em>Credits: Rocky</em>. Dir. John G. Avildsen. Chartoff-Winkler Productions, 1976.<br />
+</br></p>
+<p><strong>If you could travel anywhere right now, where would you go and why?</strong><br />
+Travel Europe to visit a bunch of friends that I recently met while participating to ITF Taekwondo World Cup in Budapest and in particular Paris to catch-up with the PrestaShop folks!</p>
+<h2 style="color: #df0067">About your country</h2>
+<p><strong>What is your favorite local food or drink?</strong><br />
+Mom’s cooking of course, especially the sambal dishes that she makes! However, I do enjoy eating at Chinese restaurants as well.<br />
+ <img src="https://www.prestashop.com/blog/en/files/2016/11/plat.jpg" alt="plat" width="550" height="550" class="alignnone size-full wp-image-22437" /><br />
+<em>Sambal Belacan – credits: Recipeshubs</em></br></p>
+<p><strong>Give us a fun fact about your country: </strong><br />
+Malaysians are one of the friendliest people in the world…well at least on Facebook! According to Digital Life study by the global research company TNS in 2010, Malaysians on average have 233 friends on their social networks, compared with the world average of 119! Well the numbers could have changed in 2016 but hey, I think Malaysians are still considered to be friendly.</p>
+<h2 style="color: #df0067">About PrestaShop</h2>
+<p><strong>What opportunities does PrestaShop provide in your country?</strong><br />
+Malaysia is one of the countries with the highest mobile and internet penetration rate. Online shopping has grown tremendously over the last 5 years and a lot of businesses (start-ups and large corporations) are listing their products in common marketplaces to tap into this growing market. PrestaShop is a great free e-commerce platform not only for start-ups and SMEs in Malaysia but also for ASEAN’s. More options for localised payment gateway, shipping and marketplace connectors would make the solution even greater.</p>
+<p><strong>What is your feedback on the new major version, PrestaShop 1.7?</strong><br />
+The new PrestaShop 1.7 feels very light and seamless. The front office with the new start-up theme looks simpler and more modern, which is very much in-line with the trend. The back-office navigation is also very user-friendly. I installed a few 1.6 modules on a test site running on PrestaShop 1.7 and it seems to work fine so far. Certainly, 1.7 is a good upgrade for PrestaShop.</p>
+<h2 style="color: #df0067">About being an Ambassador</h2>
+<p><strong>What is your proudest moment as a PrestaShop Ambassador?</strong><br />
+Being the first PrestaShop Ambassador of Malaysia and also organising the first PrestaShop meetup in Asia!</p>
+<p><strong>What do you like the most about being an Ambassador?</strong><br />
+What I like the most about being an Ambassador is the awesome support by the PrestaShop team, exclusive updates about the upcoming releases and their super cool gifts. The Preston figurine is my daughter’s favourite toy in the car. Most importantly, I like to assist people on PrestaShop and ecommerce whenever they need more information and assistance. It gives me a sense of self-satisfaction.</p>
+<p><strong>A last word?</strong><br />
+Gone are the days where it requires a lot of expertise and money to develop a comprehensive e-commerce site with full control. With PrestaShop, businesses now can have their own e-commerce site with minimal effort and budget, regardless of their IT background.</p>
+<p>Moreover with PrestaShop Addons marketplace, your e-commerce site can incorporate more customized and sophisticated functions which you can leverage to better serve your customers.</p>
+<p>If you are planning to have an e-commerce site anytime soon, please check-out PrestaShop. You may not end-up using it but I’m pretty sure it is worth considering!</p>
+<p><strong>Thank you very much Jayasilen!</strong></p>
+<p>Find out more about <a href="http://ambassadors.prestashop.com/ambassador/jayasilen-sivapragasam" target="_blank">Jayasilen’s profile</a> and <a href="https://www.meetup.com/PrestaShop-Kuala-Lumpur-Ecommerce-Meetup/" target="_blank">join his meetup group</a>!<br />
+Do you want to become a PrestaShop Ambassador? <a href="http://ambassadors.prestashop.com/application-form" target="_blank">Apply now.</a><br />
+See you next month <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/meet-jayasilen-ambassador-month-november-2016/">Meet Jayasilen, Ambassador of the month | November 2016</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/meet-jayasilen-ambassador-month-november-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why PrestaShop 1.7 helps theme designers “create easier”</title>
+		<link>https://www.prestashop.com/blog/en/prestashop-1-7-helps-theme-designers-create-easier/</link>
+		<comments>https://www.prestashop.com/blog/en/prestashop-1-7-helps-theme-designers-create-easier/#comments</comments>
+		<pubDate>Thu, 01 Dec 2016 14:14:52 +0000</pubDate>
+		<dc:creator><![CDATA[guillaume_b]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22404</guid>
+		<description><![CDATA[<p>“It seems that perfection is attained, not when there is nothing more to add, but when there is nothing more to take away.” Antoine de Saint-Exupéry There is probably no better quote to depict how we’ve achieved one of the most important improvement of PrestaShop 1.7: its new Theme structure. In previous versions of PrestaShop, [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-1-7-helps-theme-designers-create-easier/">Why PrestaShop 1.7 helps theme designers “create easier”</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>“It seems that perfection is attained, not when there is nothing more to add, but when there is nothing more to take away.”</em><br />
+Antoine de Saint-Exupéry</p>
+<p><span id="more-22404"></span>There is probably no better quote to depict how we’ve achieved one of the most important improvement of PrestaShop 1.7: its new Theme structure. In previous versions of PrestaShop, creating a new theme was a developer task. It required a large technical skillset (HTML, CSS, Smarty and PrestaShop itself), and a lot of business logic was happening inside the templates. As a result, the Themes were only built on top of the default Theme.</p>
+<p>That’s why we came up with a better solution to create and maintain a theme: a Starter Theme and a new Default Theme. Our goal is to enable anyone to create an awesome theme with only basic knowledge of HTML and CSS, in only half the time it took with PrestaShop 1.6.</p>
+<p>We call <a href="http://build.prestashop.com/news/starter-theme-news-2/" target="_blank">Starter Theme</a> our minimal PrestaShop 1.7 theme: it is feature-complete but has no styling, and thus nothing to take away… which is perfect for Theme designers because it saves a lot of time when implementing a new design. It also allows them to create a production-ready theme with any front-end technology upon a strong foundation.</p>
+<p>The new Default Theme, called <a href="http://build.prestashop.com/news/new-theme-1-7-introduction/" target="_blank">“Classic”</a>, is the free theme you can use when starting off your business. It is classy and efficient, based on the Starter Theme, includes Bootstrap 4 framework, and has been designed to be visually light and neutral, while delivering <a href="http://build.prestashop.com/news/Designing-the-new-PrestaShop-default-theme/" target="_blank">the best web and e-commerce practices</a>. Of course, it is mobile-responsive and still entirely adjustable and customizable, to allow every online shop to be singular. One of the highlights of “Classic” is a <a href="http://build.prestashop.com/news/starter-theme-news-3/" target="_blank">one-page checkout</a> by default. It makes editing the order very easy, displays a cart recap always at customers’ sight and allows customers to anticipate the steps before payment. All of these user experience improvements help in turn your conversion rate.</p>
+<p>Last but not least, the feature of <a href="http://developers.prestashop.com/themes/smarty/parent-child-feature.html" target="_blank">Parent/Child inheritance</a> will make it easy to modify a template without having to change the source file. Which then makes updating your theme (for bug fix, security…) completely seamless while leaving your customization untouched.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-1-7-helps-theme-designers-create-easier/">Why PrestaShop 1.7 helps theme designers “create easier”</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/prestashop-1-7-helps-theme-designers-create-easier/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DIY and e-commerce: How to breathe new life into a traditional market</title>
+		<link>https://www.prestashop.com/blog/en/diy-e-commerce-breathe-new-life-traditional-market/</link>
+		<comments>https://www.prestashop.com/blog/en/diy-e-commerce-breathe-new-life-traditional-market/#comments</comments>
+		<pubDate>Tue, 29 Nov 2016 10:10:21 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22420</guid>
+		<description><![CDATA[<p>The Spanish company SelfPackaging recently breathed new life into a traditional and widely marketed product by developing a comprehensive range of fully customizable and easy-to-assemble packaging. SelfPackaging launched in 2009 and now enjoys international success thanks to its unique and attractively priced DIY solution for companies and individuals. In this video, Josep Maria Garrofé, founder [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/diy-e-commerce-breathe-new-life-traditional-market/">DIY and e-commerce: How to breathe new life into a traditional market</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The Spanish company SelfPackaging recently breathed new life into a traditional and widely marketed product by developing a comprehensive range of fully customizable and easy-to-assemble packaging.<span id="more-22420"></span></p>
+<p><a href="http://selfpackaging.com/" target="_blank">SelfPackaging</a> launched in 2009 and now enjoys international success thanks to its unique and attractively priced DIY solution for companies and individuals.</p>
+<p>In this video, Josep Maria Garrofé, founder of SelfPackaging, and David Rodriguez, CEO of WebImpacto (the web agency that developed the latest version of the e-commerce website) give advice to help you succeed in this very unique business.</p>
+<p>Learn from their expertise and advice, and improve your e-commerce website!</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/E9N4isW8TSI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=leslipfrancais"> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/diy-e-commerce-breathe-new-life-traditional-market/">DIY and e-commerce: How to breathe new life into a traditional market</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/diy-e-commerce-breathe-new-life-traditional-market/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Last minute tips before Black Friday</title>
+		<link>https://www.prestashop.com/blog/en/last-minute-tips-black-friday/</link>
+		<comments>https://www.prestashop.com/blog/en/last-minute-tips-black-friday/#comments</comments>
+		<pubDate>Thu, 24 Nov 2016 10:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+		<category><![CDATA[Ecommerce Trends]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22409</guid>
+		<description><![CDATA[<p>As the Romans may have said on a day like today: “Barbari qui in porta sunt.”. In a more familiar tongue, “The Barbarians are at the gate”. Not that we’d want you to consider your customers to be barbarous, but as we all know, Black Friday has been known to elicit scenes of customers stampeding [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/last-minute-tips-black-friday/">Last minute tips before Black Friday</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p dir="ltr">As the Romans may have said on a day like today: “Barbari qui in porta sunt.”. In a more familiar tongue, “The Barbarians are at the gate”. Not that we’d want you to consider your customers to be barbarous, but as we all know, Black Friday has been known to elicit scenes of customers stampeding into retail stores in order to scoop up the best deals.</p>
+<p dir="ltr"><span id="more-22409"></span>In the E-commerce world, if you’re in B2C retail, this is what you’ve been prepping for in recent weeks and months -<strong> a rush of shoppers</strong>, well rested after a massive Thanksgiving feast, and ready to conquer the first round of their holiday shopping.</p>
+<p dir="ltr">With so much on the line, don’t forget to conduct some <strong>last minute checks to make sure that you’re ready</strong>. We recommend the following:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Check with your host to make sure that your <strong>hosting account is ready</strong> for the influx of traffic</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Make sure that you know how to reach<strong> hosting support 24/7</strong> should something go wrong</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Confirm that you have a <strong>contact list for other vendors</strong>, like your credit card processors and other 3rd party services, should you run into any issues</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Know the <strong>availability of your developers</strong> should you run into issues that aren’t related to hosting</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Test any coupons or discounts</strong> that you’ll be applying to make sure that they work as intended, as well as any holiday banners and graphics</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Complete a final sweep of your site, <strong>testing from the homepage, through checkout</strong> just in case any last-minute updates caused any unnoticed issues</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Confirm that your <strong>marketing campaigns</strong>, such as for ReMarketing, are turned on, have the necessary budgets, and are ready to go</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Ensure that you’re <strong>tracking the traffic</strong> to your site through a system like Google Analytics</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Add a date to your calendar</strong>, closer to New Year’s, to review your analytics and data, and start thinking about how to have an even better holiday shopping season in 2017!</p>
+</li>
+</ul>
+<p dir="ltr">At this point, you don’t have time for significant changes, but it’s always best to be prepared for the worst, giving you a better opportunity to rise to the occasion and thwart any glitches should problems arise. Knowing which vendors provide you with which services is a key to that success &#8211; when the chips are down, you want to start by going to the support team that can solve the problem first.</p>
+<p dir="ltr">While we know that you’ll be focused on your short-term needs in the coming weeks, this is your opportunity to commit to great planning for next year. So many businesses wait until the last minute to plan for the holiday shopping season. Our experience shows that <strong>the most successful sites are reviewing data and game planning in January</strong>, allowing them to optimize their websites and marketing campaigns for conversions all year long. This way when the holidays come, they’re at the top of their game. If in a few weeks you feel like you could have had a better season, don’t despair! Focus those energies on a having an amazing 2017 Black Friday!</p>
+<p dir="ltr"><span style="text-decoration: underline;">About the author</span></p>
+<p dir="ltr"><strong>Robert Rand, Chief Technology Officer, <a href="https://www.prestashop.com/en/web-agency-partners/bronze/randmarketing" target="_blank">RandMarketing.com</a></strong></p>
+<p dir="ltr">Rand Marketing is an award winning full-service digital agency, based in Fort Lauderdale, FL, with an in-house team of designers, developers, and digital marketing specialists. Whether you need help with Search Engine Optimization, Google AdWords and Pay Per Click Marketing, Social Media Marketing, E-mail Marketing, Web Design, Conversion Rate Optimization, or other E-commerce needs, the Rand Team is here to help. We’re Google Premier Partners, an INC5000 company, and have an A+ with the BBB, among our many accolades.</p>
+<p dir="ltr"><img alt="" src="https://lh5.googleusercontent.com/MndfWLQqEUvfWDEBHGQHvMQU6qT9Ghv6FiXFFTDvF5LAvmqP9iD1oHHuJRRn77nygZARlylPxOdyljTNcn6HbCNJo1FYSbskwUALPajt_7ptHEi9ZLbUHNJLDUfNGjSml7JG3zc1" width="349" height="85" /></p>
+<p>&nbsp;</p>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/last-minute-tips-black-friday/">Last minute tips before Black Friday</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/last-minute-tips-black-friday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How Your Online Retail Site Could Benefit from using Instagram</title>
+		<link>https://www.prestashop.com/blog/en/online-retail-site-benefit-using-instagram/</link>
+		<comments>https://www.prestashop.com/blog/en/online-retail-site-benefit-using-instagram/#comments</comments>
+		<pubDate>Tue, 22 Nov 2016 16:13:25 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22390</guid>
+		<description><![CDATA[<p>2016 has been Instagram’s year. It now has over 500 million monthly users (more than Twitter!) and 60% log in daily, making it the second most engaged network after Facebook. Instagram is also proving to be a near-ideal platform for brands &#8211; particularly ecommerce brands. 70% of Instagram users report already having looked up a brand [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-retail-site-benefit-using-instagram/">How Your Online Retail Site Could Benefit from using Instagram</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>2016 has been Instagram’s year. It now has over <a href="https://www.instagram.com/press/" target="_blank">500 million monthly users</a> (more than Twitter!) and 60% log in daily, making it the second most engaged network after Facebook.<br />
+<span id="more-22390"></span></p>
+<p>Instagram is also proving to be a near-ideal platform for brands &#8211; particularly ecommerce brands. 70% of Instagram users report already having <a href="http://blog.iconosquare.com/instagram-2015-study-unleash-power-instagram/" target="_blank">looked up a brand on the platform</a> and, according to research from member-based intelligence firm L2, Instagram has the highest <a href="http://business.financialpost.com/investing/trading-desk/how-instagram-is-becoming-a-must-have-for-retailers?__lsa=6904-3bfd" target="_blank">browser-to-shopper conversion rate</a> of all the social networks.</p>
+<p>So it’s really time to take Instagram seriously yet only <a href="http://www.emarketer.com/Article/Small-Businesses-So-So-About-Social/1012348" target="_blank">9% of US small businesses</a> are posting regularly on the network.  Read on to discover why Instagram should be part of the marketing strategy for your online retail site.</p>
+<h2><span style="color: #00ccff;">1.  Showcase your product catalogue</span></h2>
+<p>The creative spirit of Instagram gives you real scope to showcase your products in unique and inspirational ways. Avoid being overly commercial; users respond well to beautiful, professional-looking images that communicate your brand’s value without needing a sales pitch.</p>
+<p>Although this may seem easier for fashion and beauty brands which focus on an attractive product catalogue, less visually appealing brands such as <a href="https://www.instagram.com/staples/" target="_blank">Staples</a> and home improvement chain <a href="https://www.instagram.com/loweshomeimprovement/" target="_blank">Lowes</a> have created inventive strategies to communicate their brand offerings in way that engages users:</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/en/files/2016/11/lowes.jpg" target="_blank"><img class="aligncenter  wp-image-22392" alt="lowes" src="https://www.prestashop.com/blog/en/files/2016/11/lowes.jpg" width="1413" height="916" /></a></p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/en/files/2016/11/staples.jpg" target="_blank"><img class="aligncenter  wp-image-22393" alt="staples" src="https://www.prestashop.com/blog/en/files/2016/11/staples.jpg" width="1418" height="913" /></a></p>
+<h2><span style="color: #00ccff;">2.  Build a brand personality and engage followers</span></h2>
+<p>User engagement with brands is <a href="https://www.brandwatch.com/blog/37-instagram-stats-2016/" target="_blank">10 times higher on Instagram than Facebook</a>. As well as product images, you can test posting videos, quotes, statistics and run contests and see which your followers responds to best.</p>
+<p>A great way to develop your brand’s personality on Instagram is also to post fun behind-the-scenes images or video clips of your products being made or what day-to-day life is like at your company. This can also help for recruiting new staff as they get a great idea of what it will be like to work for your brand.</p>
+<p>Another option, particularly for small businesses, is to post images of your local area to help build your brand personality. Adding geotags showing where the photo was taken can also help attract new followers.</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/en/files/2016/11/humming.jpg" target="_blank"><img class="aligncenter  wp-image-22394" alt="humming" src="https://www.prestashop.com/blog/en/files/2016/11/humming.jpg" width="1432" height="920" /></a></p>
+<h2><span style="color: #00ccff;">3.  Drive online sales</span></h2>
+<p>Ok so now you’ve built up an online community with your beautiful product photos and behind the scenes lifestyle shots &#8211; how does that translate into revenue? Well if you’re doing things right, you may already be seeing results as 78% of consumers make <a href="http://www.socialmediatoday.com/marketing/masroor/2015-05-28/social-media-biggest-influencer-buying-decisions" target="_blank">buying decisions influenced by a brand’s social media</a>. Another extremely effective option is to post exclusive limited-time offers for your followers to motivate them to buy.</p>
+<p>However if you want a more concrete (and measurable) way to drive sales from within the platform then you should considering investing in Instagram ads. The <a href="https://www.elegantthemes.com/blog/resources/5-social-commerce-trends-to-watch-out-for-in-2016" target="_blank">average order value</a> of Instagram-referred orders is $65 compared to $55 for Facebook and $46.29 for Twitter.</p>
+<p>Ads can take the form of a photo or video with a call to action such as Shop Now, Install Now or Sign Up. Currently ads drive shoppers to your site to make the purchase but Instagram are already testing <a href="http://marketingland.com/instagram-tests-shopping-outside-ads-20-retailers-u-s-196761" target="_blank">enabling purchases from within the app</a> itself which will probably lead to even higher conversion rates.</p>
+<p style="text-align: center;"><a href="http://blog.business.instagram.com/post/128686033016/150909-advertisinglaunch" target="_blank"><img class="aligncenter  wp-image-22395" alt="Instagram ads" src="https://www.prestashop.com/blog/en/files/2016/11/Instagram-ads.jpg" width="1200" height="525" /></a></p>
+<p>So there you have it, three great reasons why you should consider testing out Instagram for your online retail site!</p>
+<p><i>SteerFox is an intelligent advertising automation tool which helps online retailers get results from their ad campaigns on Instagram, Facebook, Google Adwords and Google Shopping. Find out more at </i><a href="http://www.steerfox.com/en/" target="_blank"><i>steerfox.com</i></a><i>.</i></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-retail-site-benefit-using-instagram/">How Your Online Retail Site Could Benefit from using Instagram</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/online-retail-site-benefit-using-instagram/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
